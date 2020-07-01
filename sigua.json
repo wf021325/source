@@ -1,13 +1,13 @@
   {
   	"lives": [{
-  			"name": "H動漫",
+  			"name": "动漫",
   			"url": "",
   			"urls": {
   				"手机的故事": "https://zmcmw.com/20200624/4LFBX4GD/index.m3u8",
   				"支配的序章": "https://zmcmw.com/20200624/YezIGogZ/index.m3u8"
   			}
   		}, {
-  			"name": "絲瓜推薦",
+  			"name": "推荐",
   			"url": "",
   			"urls": {
   				"老司机女生": "https://zmcmw.com/20200627/CJXuDtkc/index.m3u8",
